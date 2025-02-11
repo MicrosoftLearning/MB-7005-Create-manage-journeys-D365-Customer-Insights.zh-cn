@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # MB-7005 - 创建和管理 Dynamics 365 Customer Insights 中的旅程
 
 此存储库包含 MB-7005 的练习和支持文件 - 使用 Dynamics 365 Customer Insights 创建和管理旅程。 本课程面向计划使用 Dynamics 365 Customer Insights 在其职业生涯中创建和交付市场营销旅程的学生，或希望了解如何为组织配置 Dynamics 365 Customer Insights 的客户体验分析师。
