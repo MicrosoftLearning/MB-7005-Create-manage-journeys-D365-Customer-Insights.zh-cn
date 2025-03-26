@@ -32,7 +32,7 @@ lab:
 
 1. 设计电子邮件。 请参阅以下欢迎电子邮件 1 的屏幕截图，了解设计和内容创意，并使用你在设置说明中上传的主图。 可以根据需要修改图像和内容，但你希望在此电子邮件中包含一个行动号召按钮，因为它将用作旅程中的分支条件。
 
-![欢迎电子邮件 1 的屏幕截图。](../Labs/Media/welcome-email-1-example.png) 
+    ![欢迎电子邮件 1 的屏幕截图。](../Labs/Media/welcome-email-1-example.png) 
 
 1. 下面是此电子邮件的一些示例副本。 可以将此项复制并粘贴到电子邮件设计中。 使用“**个性化**”设置输入联系人名字的动态内容。 
 
@@ -81,7 +81,7 @@ lab:
 
 1. 设计电子邮件。 有关设计和内容创意，请参阅下面欢迎电子邮件 2 的屏幕截图。 可以根据需要修改图像和内容。 
 
-![欢迎电子邮件 2 的屏幕截图。](../Labs/Media/welcome-email-2-example.png) 
+    ![欢迎电子邮件 2 的屏幕截图。](../Labs/Media/welcome-email-2-example.png) 
 
 1. 下面是此电子邮件的示例副本。 可以将此项复制并粘贴到电子邮件设计中。 （备注：建议保留第一封电子邮件中的 FirstName，然后将副本的其余部分替换为此项。） 
 
@@ -109,7 +109,7 @@ We will create one final email by copying email 2.
 
 1. Design the email. Refer to the screenshot of Welcome Email 3 below for design and content ideas. You can modify the images and content as desired. 
 
-![Screenshot of Welcome Email 3.](../Labs/Media/welcome-email-3-example.png) 
+    ![Screenshot of Welcome Email 3.](../Labs/Media/welcome-email-3-example.png) 
 
 1. Here is sample copy for this email. You can copy and paste this into your email design. (Note: We recommend leaving FirstName from the first email and then replacing the rest of the copy with this.) 
 
@@ -118,8 +118,9 @@ We will create one final email by copying email 2.
 
     使用以下链接从网站下载该工具包。
     
-    如果有任何问题，请随时联系我。 祝好，保险专家 John Smith   jsmith@contosoinsurance.com 888-888-8888 
+    如果有任何问题，请随时联系我。 祝好，保险专家 John Smith   jsmith@contosoinsurance.com 888-888-8888
+    ```
 
-1. 更新电子邮件中的按钮。 在“**按钮文本**”字段中，将其更改为“**单击此处获取欢迎工具包**”
+1. Update the button in the email. In the **Button text** field, change it to **Click here for the welcome kit.**
 
-1. 预览、测试和上线你的电子邮件。
+1. Preview, test, and go live with your email.
